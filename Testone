@@ -1,2 +1,2 @@
-public query();
+public query("user");
 public execute();
